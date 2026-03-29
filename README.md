@@ -1,5 +1,11 @@
 # Project Action Tracker
 
+## Download
+
+Download the latest version from the [Releases page](https://github.com/ozhanoruklu/project-action-tracker/releases).
+
+---
+
 A lightweight desktop tool designed to track tasks, waiting items, priorities, and daily follow-up actions in a practical work environment.
 
 ---
