@@ -4,6 +4,12 @@ A lightweight desktop tool designed to track tasks, waiting items, priorities, a
 
 ---
 
+## Preview
+
+![Project Action Tracker](screenshot.png)
+
+---
+
 ## Problem
 
 In daily operations, tasks, follow-ups, and responsibilities are often scattered across emails, notes, and conversations. This leads to loss of visibility and weak control over ongoing actions.
