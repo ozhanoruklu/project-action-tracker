@@ -2,7 +2,14 @@
 
 ## Download
 
-Download the latest version from the [Releases page](https://github.com/ozhanoruklu/project-action-tracker/releases).
+Download the latest version:
+
+👉 **[Download for Windows (.exe)](https://github.com/ozhanoruklu/project-action-tracker/releases/download/v1.0.0/ProjectActionTracker.exe)**
+
+No installation required. Just download and run.
+
+Or browse all releases:
+https://github.com/ozhanoruklu/project-action-tracker/releases
 
 ---
 
