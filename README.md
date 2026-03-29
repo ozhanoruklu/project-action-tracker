@@ -1,5 +1,15 @@
 # Project Action Tracker
 
+A lightweight desktop tool designed to track tasks, waiting items, priorities, and daily follow-up actions in a practical work environment.
+
+---
+
+## 🚀 Purpose
+
+This tool was developed to support practical task tracking in real project environments where multiple parallel actions, follow-ups, and responsibilities must be managed efficiently.
+
+---
+
 ## Download
 
 Download the latest version:
@@ -8,18 +18,26 @@ Download the latest version:
 
 No installation required. Just download and run.
 
-Or browse all releases:
-https://github.com/ozhanoruklu/project-action-tracker/releases
+---
+
+### ⚠️ First Run Notice
+
+Since this is a newly released executable, Windows or your browser may display a security warning.
+
+This is expected for unsigned applications.
+
+To proceed:
+- In your browser, choose **"Keep" / "Keep anyway"** if the download is blocked  
+- When opening the file, click **"More info" → "Run anyway"**
 
 ---
 
-A lightweight desktop tool designed to track tasks, waiting items, priorities, and daily follow-up actions in a practical work environment.
+### 🔒 Security Note
 
----
-
-## 🚀 Purpose
-
-This tool was developed to support practical task tracking in real project environments where multiple parallel actions, follow-ups, and responsibilities must be managed efficiently.
+- This is a **standalone desktop application**
+- It does **not connect to the internet**
+- All data is stored locally in a `tasks.json` file
+- No external services or data transmission is involved
 
 ---
 
@@ -92,9 +110,8 @@ Active view is sufficient for daily use.
 
 ## 💻 Installation
 
-1. Go to the `app` folder  
-2. Download `ProjectActionTracker.exe`  
-3. Run the application  
+1. Download the `.exe` from above  
+2. Run the application  
 
 ---
 
